@@ -1,4 +1,4 @@
-# Linux Kernel v3.10.32 RCE
+# 🎀 Linux Kernel v3.10.32 RCE 🎀
 ## Overview
 Versions 3.10.32 and below of the Linux Kernel have been found to be vulnerable to Remote Code Execution (RCE) via a stack-based buffer overflow vulnerability in the telnetd service.
 ## Details
